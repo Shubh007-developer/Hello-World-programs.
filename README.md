@@ -1,2 +1,4 @@
 # Hello-World-programs.
-Just beginning program
+Just beginning Python programming
+
+Print ("Hello World.")
