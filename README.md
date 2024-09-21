@@ -1,6 +1,9 @@
 # Hello-World-programs.
 Just beginning Python programming
 
-Print ("Hello World.")
-Print ("Welcome to Shubham Inc.")
-Print("It's a welcome project.")
+print ("Hello World.");
+print ("Welcome to Shubham Inc.");
+print("It's a welcome project.");
+print("Start with first project.")
+
+
